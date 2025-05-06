@@ -11,3 +11,5 @@ This project analyzes mental health survey data to explore factors influencing m
 * Scikit-learn
 * Matplotlib, Seaborn
 * Jupyter Notebook
+# CASES
+This kind of model can assist mental helth cases in work places.
